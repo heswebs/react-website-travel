@@ -6,7 +6,7 @@ import './HeroSection.css'
 function HeroSection() {
     return (
         <div className='hero'>
-            <video className="hero__video" src="/videos/video-1.mp4" autoPlay loop muted />
+            <video className="hero__video" src="https://hesguru.com/video-1.mp4" autoPlay loop muted />
             <h1 className="hero__title">Adventure Awaits</h1>
             <p className="hero__paragraph">What are you waiting for?</p>
             <div className="hero__btns">
